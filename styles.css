@@ -13,8 +13,21 @@ body {
     place-content: center;
     height: 100vh;
     background-color: rgb(0, 0, 69);
-    overflow: hidden;
     color: white;
+}
+
+footer {
+    margin: 1rem 0;
+    font-size: 1rem;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+a{
+    text-decoration: none;
 }
 
 img {
@@ -60,4 +73,7 @@ img {
     display: grid;
     font-size: 3rem;
     place-content: center;
+    text-align: center;
 }
+
+
