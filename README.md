@@ -67,6 +67,3 @@ Por ahora, el mensaje de *Game Over* es resumido a una alerta enviada al usuario
 Una buena mejora para la jugabilidad en estos dispositivos, involucra el manejo del click sostenido en los apartados de los botones; manejarlo permitiría que le movimiento de las piezas fuera más rápido. En el teclado físico esto funciona porque el evento utilizado es "*keydown*". 
 
 Por el momento, este sitio sólo puede ser jugado de forma adecuada cuando el dispositivo es posicionado verticalmente; una mejora sería adaptar el contenido del juego al activar el *rotate* de los dispositivos. Este es un cambio un tanto complicado, ya que involucraría hacer cambios en el tamaño del tablero y las piezas, así como disminuir la escala, ya que este juego el principal contenido es más alto que ancho, lo que genera un recorte del área visible para el usuario, obligándolo a deslizar la pantalla continuamente. 
-
-
-Nota: Proyecto guiado por el Desarrollador Web [Miguel Ángel Durán](https://www.instagram.com/midu.dev/).
